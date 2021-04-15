@@ -1,7 +1,7 @@
 # Brenna Walters Portfolio
 An overview of data analysis projects
 
-## US Traffic Accident Data Analysis
+## [US Traffic Accident Data Analysis](https://github.com/brennanwalters/US_Traffic_Data_Analysis)
 * Cleansed and wrangled 23 years of data from the National Traffic Safety Administration involving fatal traffic accidents in the US
 * Performed exploratory and visual analysis of the data using R
 

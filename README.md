@@ -13,3 +13,7 @@ An overview of data analysis projects
 ## [Sentiment Analysis of E-Commerce Clothing Reviews](https://github.com/brennanwalters/E-Commerce_Sentiment_Analysis/blob/main/README.md)
 *	Used R to clean and structure textual data
 *	Performed sentiment analysis of the customer reviews and a visual analysis of its findings
+
+## [E-Commerce Purchase Prediction](https://github.com/brennanwalters/E-Commerce_Purchase_Prediction)
+* Cleaned and examined E-commerce data using Python
+* Performed logistic regression to predict purchases based on six factors

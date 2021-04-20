@@ -10,3 +10,6 @@ An overview of data analysis projects
 * Examined and visualized data using Jupyter Notebook
 * Performed linear regression and KNN regression to predict overall score
 
+## [Sentiment Analysis of E-Commerce Clothing Reviews](https://github.com/brennanwalters/E-Commerce_Sentiment_Analysis/blob/main/README.md)
+*	Used R to clean and structure textual data
+*	Performed sentiment analysis of the customer reviews and a visual analysis of its findings

@@ -13,7 +13,7 @@ An overview of data science projects
 ## [Sentiment Analysis of E-Commerce Clothing Reviews (NLP)](https://github.com/brennanwalters/E-Commerce_Sentiment_Analysis/blob/main/README.md)
 *	Used R to read, clean, and structure textual data
 *	Performed sentiment analysis of the customer reviews and a visual analysis of its findings
-*	Built logistic regression model to predict whether customers recommended a product based on the sentiment of their review
+*	Built logistic regression model to predict whether a customer recommended a product based on the sentiment of their review
 
 ## [E-Commerce Purchase Prediction](https://github.com/brennanwalters/E-Commerce_Purchase_Prediction)
 * Cleaned and examined E-commerce data using Python

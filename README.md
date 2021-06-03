@@ -10,12 +10,14 @@ An overview of data science projects
 * Cleansed and wrangled 23 years of data from the National Traffic Safety Administration involving fatal traffic accidents in the US
 * Performed exploratory and visual analysis of the data using R
 
+## [E-Commerce Purchase Prediction](https://github.com/brennanwalters/E-Commerce_Purchase_Prediction)
+* Cleaned and examined E-commerce data using Python
+* Visually analyzed the data using Seaborn and matplotlib
+* Performed logistic regression to predict purchases based on six factors
+
 ## [Global Happiness Visualization and Prediction](https://github.com/brennanwalters/Global_Happiness_Project)
 * Cleansed data consisting of an overall score measuring quality of life and ranking 9 world regions based on 7 variables
 * Examined and visualized data using Jupyter Notebook
 * Performed linear regression and KNN regression to predict overall score
 
-## [E-Commerce Purchase Prediction](https://github.com/brennanwalters/E-Commerce_Purchase_Prediction)
-* Cleaned and examined E-commerce data using Python
-* Visually analyzed the data using Seaborn and matplotlib
-* Performed logistic regression to predict purchases based on six factors
+

@@ -15,6 +15,11 @@ An overview of data science projects
 * Visually analyzed the data using Seaborn and matplotlib
 * Performed logistic regression to predict purchases based on six factors
 
+## [Chicago Airbnb Data Analysis](https://github.com/brennanwalters/Chicago_Airbnb_Data_Analysis)
+* Created multiple regression models predicting the nightly price of Chicago Airbnb properties from August 2008 to May 2017
+* Evaluated top three regression models in order to determine the best one
+* Performed inference for the final model's regression coefficient
+
 ## [Global Happiness Visualization and Prediction](https://github.com/brennanwalters/Global_Happiness_Project)
 * Cleansed data consisting of an overall score measuring quality of life and ranking 9 world regions based on 7 variables
 * Examined and visualized data using Jupyter Notebook
